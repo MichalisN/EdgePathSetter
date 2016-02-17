@@ -9,5 +9,5 @@ Edge Path Setter changes the default download location of Microsoft Edge web bro
 
 ## More information
 
-More information about Edge Path Setter, screenshots and latest binaries can be found at []Edge Path Setter original website](http://michalisnicolaides.com/edge-path-setter-microsoft-edge-default-download-path-changer/)
+More information about Edge Path Setter, screenshots and latest binaries can be found at [Edge Path Setter original website](http://michalisnicolaides.com/edge-path-setter-microsoft-edge-default-download-path-changer/)
 
